@@ -2,7 +2,9 @@
 using DesignPatterns_Dependency_Injection.git;
 
 
-GameManager gameManager = new GameManager(new HumanPlayer(), new ComputerPlayer());
+//GameManager gameManager = new GameManager(new HumanPlayer(), new ComputerPlayer());
+
+ClusteredGameManager gameManager = new ClusteredGameManager();
 
 do
 {
