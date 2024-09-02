@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns-Dependency-Injection.git", "DesignPatterns-Dependency-Injection.git\DesignPatterns-Dependency-Injection.git.csproj", "{66F6E3F5-9FD6-4F82-91A2-2252C7A8F6E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionTest", "DependencyInjectionTest\DependencyInjectionTest.csproj", "{ACBA6922-1272-405F-81C9-7D89A95728FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66F6E3F5-9FD6-4F82-91A2-2252C7A8F6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66F6E3F5-9FD6-4F82-91A2-2252C7A8F6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66F6E3F5-9FD6-4F82-91A2-2252C7A8F6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBA6922-1272-405F-81C9-7D89A95728FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBA6922-1272-405F-81C9-7D89A95728FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBA6922-1272-405F-81C9-7D89A95728FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBA6922-1272-405F-81C9-7D89A95728FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
